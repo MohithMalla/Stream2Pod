@@ -1,6 +1,6 @@
-# 🎧 Stream2Podcast
+# 🎧 Stream2Pod
 
-**Stream2Podcast** is an intelligent podcast-generation platform that converts YouTube videos into audio-based podcast episodes — and enhances the experience with a built-in **AI Assistant** that answers user questions mid-playback as spoken responses, then resumes the original podcast seamlessly.
+**Stream2Pod** is an intelligent podcast-generation platform that converts YouTube videos into audio-based podcast episodes — and enhances the experience with a built-in **AI Assistant** that answers user questions mid-playback as spoken responses, then resumes the original podcast seamlessly.
 
 ---
 
